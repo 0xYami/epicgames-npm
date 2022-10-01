@@ -1,0 +1,27 @@
+{
+  "name": "@akenodev/epicgames",
+  "version": "1.0.1",
+  "description": "A Simple Package For Epicgames",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akenolol/epicgames-npm.git"
+  },
+  "keywords": [
+    "epicgames",
+    "akeno",
+    "videogames"
+  ],
+  "bugs": {
+    "url": "https://github.com/akenolol/epicgames-npmissues"
+  },
+  "homepage": "https://github.com/akenolol/epicgames-npm#readme",
+  "author": "akenolol",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
