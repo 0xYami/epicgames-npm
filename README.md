@@ -15,7 +15,7 @@ A Simple NPM Package to get EpicGames info
 | getStoreByCountry(string) | Data Needed (US) |
 | getNews() | No Data Needed |
 | getNewsByLocale(string) | Data Needed (en-US) |
-| getFreeGames() | Nod Data Needed |
+| getFreeGames() | No Data Needed |
 
 
 ## Installation
